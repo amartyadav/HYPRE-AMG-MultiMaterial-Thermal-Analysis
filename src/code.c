@@ -1,8 +1,12 @@
 /******************************************************************************
- * Copyright (c) 1998 Lawrence Livermore National Security, LLC and other
- * HYPRE Project Developers. See the top-level COPYRIGHT file for details.
- *
+ * Original Copyright (c) 1998 Lawrence Livermore National Security, LLC 
+ * and other HYPRE Project Developers. 
  * SPDX-License-Identifier: (Apache-2.0 OR MIT)
+ *
+ * Modifications Copyright (c) 2026 Amartya Yadav.
+ * * Description: Automotive Multi-material Thermal Analysis variant of 
+ * HYPRE Example 5. This derivative work includes jump-coefficient logic 
+ * and volumetric heat source terms for the UTTUNGA RISC-V platform.
  ******************************************************************************/
 
 /*
