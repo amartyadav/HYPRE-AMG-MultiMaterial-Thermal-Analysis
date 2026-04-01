@@ -1,5 +1,7 @@
 # UTTUNGA: Multi-Material Thermal Analysis Benchmark
 
+**Notice**: The core solver integration is based on the HYPRE Project. The specific material-mapping logic and UTTUNGA-specific optimisations are copyright (c) 2026, Amartya Yadav.
+
 This project demonstrates the numerical advantages of **Posit arithmetic** on the **UTTUNGA RISC-V board** compared to standard x86 IEEE 754 floating-point standards.
 
 ## The Problem
