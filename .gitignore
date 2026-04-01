@@ -1,0 +1,32 @@
+# Compiled Binaries
+ex5_uttunga
+ex5_test
+ex5_test_l
+*.exe
+*.out
+
+# Object Files and Libraries
+*.o
+*.a
+*.so
+
+# HYPRE System Output Files
+# (Generated when -print_system is used)
+IJ.out.*
+
+# GLVis Visualization Outputs
+# Ignore the solution and mesh files generated during runs
+vis/*.sol.*
+vis/*.mesh
+# But keep the directory
+!vis/.gitkeep
+
+# Operating System Junk
+.DS_Store
+Thumbs.db
+
+# Editor / IDE temporary files
+.vscode/
+.idea/
+*.swp
+*~
